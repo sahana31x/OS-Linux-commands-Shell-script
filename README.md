@@ -180,6 +180,7 @@ egrep -w 'Hello|hello' newfile
 egrep -w '(H|h)ello' newfile 
 ## OUTPUT
 
+<img width="740" height="106" alt="image" src="https://github.com/user-attachments/assets/61b74975-ecac-40cc-b747-ea2b79dd6d4f" />
 
 
 egrep -w '(H|h)ell[a-z]' newfile 
