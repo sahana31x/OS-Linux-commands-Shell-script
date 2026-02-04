@@ -136,17 +136,20 @@ cat newfile | grep -i "hello"
 
 cat newfile | grep -i -c "hello"
 ## OUTPUT
+<img width="742" height="103" alt="{9B92D462-CA0E-4469-84B3-307244E4B41B}" src="https://github.com/user-attachments/assets/778a5409-e78b-433b-ba4e-ee9adfa6139a" />
 
 
 
 
 grep -R ubuntu /etc
 ## OUTPUT
+<img width="743" height="741" alt="{E2C11F20-5FA6-4A8D-9E18-FEA6B5BBFD20}" src="https://github.com/user-attachments/assets/2828df95-1801-436d-a56b-176441d0f75c" />
 
 
 
 grep -w -n world newfile   
 ## OUTPUT
+<img width="943" height="101" alt="image" src="https://github.com/user-attachments/assets/9a26712d-9d76-4805-831c-4dca151a2647" />
 
 
 cat < newfile 
@@ -170,6 +173,7 @@ Linux is best in this World
  ```
 egrep -w 'Hello|hello' newfile 
 ## OUTPUT
+<img width="740" height="106" alt="image" src="https://github.com/user-attachments/assets/97d1bc7b-d6e7-4fa1-81ca-1802e929bd98" />
 
 
 
