@@ -1092,6 +1092,7 @@ else
 fi
 ```
 ## OUTPUT 
+<img width="1056" height="208" alt="{743F218B-3E79-48B8-B53C-C2B30F45950A}" src="https://github.com/user-attachments/assets/a131c1f5-289a-4676-8038-bcaffded81b8" />
 
 
 # RESULT:
