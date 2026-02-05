@@ -732,6 +732,7 @@ $ chmod 755 ifnested.sh
  
 $ ./ifnested.sh 
 ##OUTPUT
+<img width="555" height="138" alt="image" src="https://github.com/user-attachments/assets/1a1d36a6-5bee-41ca-bbc9-0efc20d12f07" />
 
 # looking for a possible value using elif
 cat elifcheck.sh 
@@ -889,6 +890,7 @@ done
 $ chmod 755 forin1.sh
 
 ## OUTPUT
+<img width="547" height="204" alt="image" src="https://github.com/user-attachments/assets/6c2400de-e19b-4ac8-a7a5-f106bcb0ece6" />
 
 cat forinfile.sh 
 ```bash
@@ -912,6 +914,7 @@ Khammam
 
 ## OUTPUT
 
+<img width="587" height="218" alt="image" src="https://github.com/user-attachments/assets/32a5ac68-798f-4ab0-a21f-0bfa37176d6f" />
 
 cat forctype.sh 
 ```bash
